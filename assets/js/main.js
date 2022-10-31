@@ -86,7 +86,7 @@ window.addEventListener('load', function () {
 		delay: 400,
 	});
 	sr.reveal('.home__social-icon', { interval: 200 });
-	sr.reveal('.skills__data, .work__img, .contact__input', { interval: 200 });
+	sr.reveal('.skills__data, .project__img, .contact__input', { interval: 200 });
 
 
 });
